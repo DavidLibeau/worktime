@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-16" standalone="yes"?>
+<bdd>
+    <semaine date="4/9" total="35">
+        <jour date="4/9" nom="lundi" total="7">
+            <debut>9h30</debut>
+            <midi>
+                <debut>12h30</debut>
+                <fin>13h30</fin>
+            </midi>
+            <fin>17h30</fin>
+        </jour>
+        <jour date="5/9" nom="mardi" total="7">
+            <debut>9h30</debut>
+            <midi>
+                <debut>12h30</debut>
+                <fin>13h30</fin>
+            </midi>
+            <fin>17h30</fin>
+        </jour>
+        <jour date="6/9" nom="mercredi" total="7">
+            <debut>9h30</debut>
+            <midi>
+                <debut>12h30</debut>
+                <fin>13h30</fin>
+            </midi>
+            <fin>17h30</fin>
+        </jour>
+        <jour date="7/9" nom="jeudi" total="7">
+            <debut>9h30</debut>
+            <midi>
+                <debut>12h30</debut>
+                <fin>13h30</fin>
+            </midi>
+            <fin>17h30</fin>
+        </jour>
+        <jour date="8/9" nom="vendredi" total="7">
+            <debut>9h30</debut>
+            <midi>
+                <debut>12h30</debut>
+                <fin>13h30</fin>
+            </midi>
+            <fin>17h30</fin>
+        </jour>
+    </semaine>
+</bdd>
